@@ -1,0 +1,6 @@
+ultralytics==8.2.94
+opencv-python==4.10.0.84
+pytz==2024.1
+pandas==2.2.2
+fpdf==1.7.2
+torch==2.4.1
