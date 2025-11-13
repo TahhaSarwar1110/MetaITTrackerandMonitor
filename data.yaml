@@ -1,0 +1,10 @@
+# data.yaml
+path: C:/Users/Laptopster/extraction_project/tahha_dataset
+
+train: images/train
+val: images/val
+
+nc: 1
+
+names:
+  0: tahha   # ← Only this
